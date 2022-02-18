@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  display: grid;
+  place-items: center;
+}
+
+#paste {
+  height: 30vh;
+  width: 30vh;
+  border: 4px dashed red;
+  border-radius: 10px;
+  display: grid;
+  place-items: center;
+  padding: 10px;
+}
